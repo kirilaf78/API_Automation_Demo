@@ -112,3 +112,5 @@ C:\Users\afanasyev.k\source\repos\API_Automation_Demo\TestSpecFlow\obj\Debug\net
 C:\Users\afanasyev.k\source\repos\API_Automation_Demo\TestSpecFlow\obj\Debug\net7.0\TestSpecFlow.pdb
 C:\Users\afanasyev.k\source\repos\API_Automation_Demo\TestSpecFlow\obj\Debug\net7.0\TestSpecFlow.genruntimeconfig.cache
 C:\Users\afanasyev.k\source\repos\API_Automation_Demo\TestSpecFlow\obj\Debug\net7.0\ref\TestSpecFlow.dll
+C:\Users\afanasyev.k\source\repos\API_Automation_Demo\TestSpecFlow\bin\Debug\net7.0\TestData\CreateUser.json
+C:\Users\afanasyev.k\source\repos\API_Automation_Demo\TestSpecFlow\obj\Debug\net7.0\TestSpecFlow.sourcelink.json
