@@ -1,0 +1,13 @@
+C:\Users\afanasyev.k\source\repos\API_Automation_Demo\API_Automation\bin\Debug\net7.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+C:\Users\afanasyev.k\source\repos\API_Automation_Demo\API_Automation\bin\Debug\net7.0\API_Automation.deps.json
+C:\Users\afanasyev.k\source\repos\API_Automation_Demo\API_Automation\bin\Debug\net7.0\API_Automation.dll
+C:\Users\afanasyev.k\source\repos\API_Automation_Demo\API_Automation\bin\Debug\net7.0\API_Automation.pdb
+C:\Users\afanasyev.k\source\repos\API_Automation_Demo\API_Automation\obj\Debug\net7.0\API_Automation.csproj.AssemblyReference.cache
+C:\Users\afanasyev.k\source\repos\API_Automation_Demo\API_Automation\obj\Debug\net7.0\API_Automation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afanasyev.k\source\repos\API_Automation_Demo\API_Automation\obj\Debug\net7.0\API_Automation.AssemblyInfoInputs.cache
+C:\Users\afanasyev.k\source\repos\API_Automation_Demo\API_Automation\obj\Debug\net7.0\API_Automation.AssemblyInfo.cs
+C:\Users\afanasyev.k\source\repos\API_Automation_Demo\API_Automation\obj\Debug\net7.0\API_Automation.csproj.CoreCompileInputs.cache
+C:\Users\afanasyev.k\source\repos\API_Automation_Demo\API_Automation\obj\Debug\net7.0\API_Automation.dll
+C:\Users\afanasyev.k\source\repos\API_Automation_Demo\API_Automation\obj\Debug\net7.0\refint\API_Automation.dll
+C:\Users\afanasyev.k\source\repos\API_Automation_Demo\API_Automation\obj\Debug\net7.0\API_Automation.pdb
+C:\Users\afanasyev.k\source\repos\API_Automation_Demo\API_Automation\obj\Debug\net7.0\ref\API_Automation.dll

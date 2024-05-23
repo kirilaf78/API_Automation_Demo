@@ -1,0 +1,6 @@
+Properties/
+References/
+
+# Ignore specific files
+app.config
+packages.config
